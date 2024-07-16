@@ -115,7 +115,7 @@ system_unzip_whazing() {
   sleep 2
 
   sudo su - deploy <<EOF
-  git clone https://github.com/cleitonme/Whazing-SaaS.git /home/deploy/whazing
+  git clone https://github.com/RGM-DIGITAL/waturbopro.git /home/deploy/whazing
 EOF
 
   sleep 2
